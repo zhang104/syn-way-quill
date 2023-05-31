@@ -2,7 +2,7 @@
   "name": "syn-way-quill",
   "version": "1.0.0",
   "description": "使用quill.js插件创建的vue组件包",
-  "homepage": "https://github.com/zhang104/syn-quill",
+  "homepage": "https://github.com/zhang104/syn-way-quill.git",
   "entry": "packages/components/BaseQuill/index.vue",
   "main": "lib/index.js",
   "scripts": {
