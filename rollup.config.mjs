@@ -8,7 +8,7 @@ export default {
   input: "packages/components/BaseQuill/index.vue",
   output: [
     {
-      name: "SynQuill",
+      name: "SynWayQuill",
       file: "lib/index.js",
       format: "umd",
       sourcemap: false,
